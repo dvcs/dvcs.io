@@ -5,7 +5,7 @@ keywords: git, github, vcs, version control
 
 # Hero section
 title: DVCS
-description: A Collection Of Distributed Open Source Version Control System Websites
+description: A collection of open source distributed version control system projects
 buttons:
     - icon: github
       content: View on GitHub
@@ -14,12 +14,12 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: Git Design
+    - title: git.design
       excerpt: An open source design system for the git version control system.  The design system includes a logo, colors, typography and lockups.
-      cta: Learn more
+      cta: Experience
       url: https://git.design
-    - title: Gitignore.io
+    - title: gitignore.io
       excerpt: Create useful .gitignore files for your project
-      cta: Learn more
+      cta: Experience
       url: https://www.gitignore.io
 ---
