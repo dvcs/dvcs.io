@@ -1,0 +1,3 @@
+[submodule "docs/dvcs-theme"]
+	path = docs/dvcs-theme
+	url = https://github.com/dvcs/dvcs-theme.git
