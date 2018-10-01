@@ -22,4 +22,8 @@ grid_navigation:
       excerpt: Create useful .gitignore files for your project
       cta: Experience
       url: https://www.gitignore.io
+    - title: git.software
+      excerpt: A list of git clients for macOS, Linux, Windows, iOS and Android
+      cta: Experience
+      url: https://git.software
 ---
